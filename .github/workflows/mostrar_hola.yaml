@@ -8,4 +8,8 @@ jobs:
     steps:
     - name: Mostrar hola en la pantalla
       run:
-        echo "Hola, me llamo Eomat" 
+        echo "Hola, me llamo Eomat, hoy es"
+        date
+        ls
+        echo "Version de Java: "
+        java -v || echo "Java no instalado"
