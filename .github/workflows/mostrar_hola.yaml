@@ -12,4 +12,4 @@ jobs:
         date
         ls
         echo "Version de Java: "
-        java -v || echo "Java no instalado"
+        java -version || echo "Java no instalado"
