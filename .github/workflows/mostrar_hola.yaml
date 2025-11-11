@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Mostrar hola en la pantalla
-      run:
+      run: |
         echo "Hola, me llamo Eomat, hoy es"
         date
         ls
