@@ -1,0 +1,351 @@
+    1  git config --global user.name "HeVa-Dev44"
+    2  git config --global user.email heva-dev44@gmail.com
+    3  git config --global user.email heva2514.dev@gmail.com
+    4  git config --list
+    5  git config --help
+    6  git config --global username "HernanValderrama"
+    7  git config --global user.name "HernanValderrama"
+    8  git config --global user.mail "hernanvalderrama626@gmail.com"
+    9  git config --global #user.name
+   10  git config --global user.name
+   11  git config --global user.mail
+   12  git help config
+   13  git init prueba
+   14  git status
+   15  cd ./.git
+   16  cd ./prueba
+   17  git status
+   18  git config
+   19  hernan
+   20  git config --global user.name
+   21  ls
+   22  cd prueba
+   23  ls
+   24  print "hola"
+   25  print
+   26  print "saludo.txt"
+   27  l
+   28  li
+   29  git li
+   30  git status
+   31  cd prueba
+   32  cd ..
+   33  cd prueba
+   34  git status
+   35  git add --all
+   36  git status
+   37  git add .
+   38  git add *.java
+   39  git add saludo.js
+   40  git status
+   41  git reset isaakito.png
+   42  git status
+   43  git add *.png
+   44  git status
+   45  git status
+   46  git config --global
+   47  git config --global user
+   48  git config --global user.name
+   49  git init
+   50  git reset *.*
+   51  git reset imagenes/isaakito.png
+   52  git status
+   53  git reset *
+   54  git status
+   55  git reset *
+   56  git add --all
+   57  git status
+   58  git reset *.*
+   59  git reset --all
+   60  git status
+   61  git add --all
+   62  git status
+   63  git status
+   64  git reset *.*
+   65  git add --all
+   66  git status
+   67  git status
+   68  git commit .gitignore
+   69  git commit .gitignore
+   70  git commit saludo.java -M "Añadir saludo"
+   71  git commit saludo.java -m "Añadir saludo"
+   72  git status
+   73  git help
+   74  man
+   75  git man
+   76  manual
+   77  git log --stat
+   78  gitk
+   79  git commit saludo.java -m "Añadir saludo personalizado"
+   80  git add -all
+   81  git add --all
+   82  git status
+   83  git commit saludo.java -m "Añadir saludo personalizado"
+   84  git commit saludo.js -m "Añadir saludo personalizado"
+   85  gitk
+   86  gir log
+   87  git log
+   88  print nigger
+   89  git add
+   90  git add .
+   91  git status
+   92  git commit saludo.html -m "Añadir (ui): Se pregunta el nombre del usuario y se le saluda"
+   93  git log
+   94  git status
+   95  git master
+   96  git switch main
+   97  git switch master
+   98  git switch alternativa
+   99  git branch
+  100  git status
+  101  git add
+  102  git add .
+  103  git add *
+  104  git add uno.txt
+  105  git add uno.txt -f
+  106  git status
+  107  git config --global merge.tool kdiff3
+  108  git branch [texto-uno]
+  109  man git check-ref-format
+  110  git branch texto-uno
+  111  git branch
+  112  git config --global user.name
+  113  git config --global user.mail
+  114  git config --global user.mail "heva2514.dev@gmail.com"
+  115  git config --global user.mail
+  116  ls -la
+  117  ls -la ~/.ssh
+  118  ssh-keygen -t rsa -b 4096 heva2514.dev@gmail.com
+  119  ssh-keygen -t rsa -b 4096 -C "heva2514.dev@gmail.com"
+  120  ls -la ~/.ssh
+  121  eval $(ssh-agent -s)
+  122  ssh-add ~/-ssh/id_rsa
+  123  ssh-add ~/.ssh/id_rsa
+  124  git config --global core.sshCommand "C:/Windows/System32/OpenSSH/ssh.exe"
+  125  cat ~/.ssh/id_rsa.pub
+  126  ssh -T git@github.com
+  127  git remote add PruebaGitRemotoASIR2 [200~
+  128  git remote add PruebaGitRemotoASIR2 git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  129  git remote add PruebaGitRemotoASIR2 https://github.com/HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  130  git remote add PruebaGitRemotoASIR2 https://github.com/HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  131  git remote add origin git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  132  git remote add origin git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  133  git remote add origin2 git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  134  ssh -T git@github.com
+  135  git remote add origin2 git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  136  git config --global core.sshCommand "C:/Windows/System32/OpenSSH/ssh.exe“
+  137  git remote add origin2 git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  138  git config --global core.sshCommand "C:/Windows/System32/OpenSSH/ssh.exe"
+  139  git remote add origin2 git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  140  git remote add repo_sin_archivos_asir_HernVald git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  141  git remote add repo_sin_archivos_asir_HernVald git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  142  git remote -v
+  143  git branch -M main
+  144  git push -u origin main
+  145  git push -u repo_sin_archivos_asir_HernVald main
+  146  ssh -T git@github.com
+  147  git remote remove -v
+  148  git remote add origin git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald.git                         
+  149  git remote add origin git@github.com:HeVa-Dev44/repo_sin_archivos_asir_HernVald
+  150  git remove -v
+  151  git remote -v
+  152  git init
+  153  git remote add origin https://github.com/HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  154  git remote -v
+  155  git remote remove origin
+  156  git remote -v
+  157  git init
+  158  ssh -T git@github.com
+  159  git remote add origin https://github.com/HeVa-Dev44/repo_sin_archivos_asir_HernVald.git
+  160  git remote -v
+  161  git branch -M main
+  162  git push -u origin main
+  163  git init
+  164  git remote -v
+  165  git branch
+  166  git push -u origin main
+  167  git push -u origin main
+  168  git pull
+  169  git push -u origin main
+  170  git pull origin main --rebase
+  171  git status
+  172  commit
+  173  git commit
+  174  git pull origin main --rebase
+  175  git push origin main
+  176  git init
+  177  git remote add origin git@github.com:AngelEstudiante/contador-de-clicks.git
+  178  git status
+  179  git remote
+  180  git branch estilos
+  181  git init
+  182  git add READMEESTILOS.md
+  183  echo "# Guia de estilos" >> REAMDEESTILOS(ejemplo).md
+  184  echo "# Guia de estilos" >> REAMDEESTILOSejemplo.md
+  185  git add READMEESTILOSejemplo.md
+  186  git add REAMDEESTILOSejemplo.md
+  187  git commit -m "Ejemplo de la guía de estilos"
+  188  git branch -M main
+  189  git push -u origin main
+  190  git branch estilos
+  191  git branch
+  192  git checkout estilos
+  193  echo "/*Estilo de la página*/" >> styles.css
+  194  git add *
+  195  git status
+  196  git commit
+  197  git push --help
+  198  git push origin estilos
+  199  git push origin :estilos disenio
+  200  git branch -a
+  201  git push origin --delete estilos
+  202  git push -u disenio
+  203  git branch -m disenio
+  204  git branch
+  205  git push origin -u disenio
+  206  ls -a
+  207  git rm REAMDEESTILOSejemplo.md
+  208  git push
+  209  git status
+  210  commit
+  211  git commit
+  212  git push
+  213  git config --global core.editor "code --wait"
+  214  git init
+  215  git fetch origin main
+  216  ls -a
+  217  git checkout disenio
+  218  git merge origin/main
+  219  ls -a
+  220  code index.html
+  221  code styles.css
+  222  git init
+  223  git status
+  224  git remote
+  225  git remote origin
+  226  git remote -l
+  227  git remote show 
+  228  git remote origin show
+  229  git remote show origin
+  230  git remote show origin
+  231  git ls
+  232  ls
+  233  git add styles.css
+  234  git status
+  235  git commit
+  236  git status
+  237  git commit
+  238  git commit
+  239  git status
+  240  git push -u origin disenio
+  241  git fetch origin
+  242  git branch
+  243  git checkout main
+  244  git pull 
+  245  ls
+  246  git merge disenio
+  247  ls
+  248  git push origin main
+  249  git init
+  250  git remote add origin git@github.com:AngelEstudiante/contador-de-clicks2.git
+  251  git remote add origin2 git@github.com:AngelEstudiante/contador-de-clicks2.git
+  252  git remote
+  253  git --help
+  254  git branch
+  255  git origin
+  256  git remote origin 2
+  257  git remote origin2
+  258  git remote
+  259  git remote
+  260  git remote -help | less
+  261  git remote remove origin2
+  262  git remote
+  263  git status
+  264  git init
+  265  git status
+  266  git remote add origin2 git@github.com:AngelEstudiante/contador-de-clicks2.git
+  267  git remote -v
+  268  git remote origin2
+  269  git stauts
+  270  git status
+  271  git branch
+  272  cd origin2
+  273  git checkout develop
+  274  git remote
+  275  git remote origin2
+  276  git remote man
+  277  man git remote
+  278  git man remote
+  279  git remote --help
+  280  git remote get-url
+  281  git switch
+  282  git switch origin2
+  283  git pull remote origin2
+  284  git pull origin2
+  285  git branch
+  286  git branch --set-upstream-to=origin2/main
+  287  git remote -v
+  288  git branch
+  289  git pull
+  290  git pull origin2
+  291  git fetch origin2
+  292  git status
+  293  ls
+  294  git checkout -b develop origin2/develop
+  295  git branch
+  296  git fetch origin2
+  297  ls
+  298  code index.html
+  299  git add *
+  300  code index.html
+  301  git add*
+  302  git add *
+  303  git status
+  304  git commit
+  305  git commit -m "Agregado funcion de reiniciar el contador"
+  306  git push origin2 develop
+  307  code index.hmtl
+  308  code index.html
+  309  git add *
+  310  git commit -m "Agregado funcion de reiniciar el contador"
+  311  git add *
+  312  git status
+  313  git commit -m "Agregado funcion de reiniciar el contador"
+  314  git push origin2 develop
+  315  git init
+  316  ls
+  317  ls -l .git/hooks
+  318  git config --global.user.name
+  319  git config --global user.name
+  320  git config --global user.mail
+  321  git status
+  322  git add hola.txt
+  323  commit hola.txt -m "Agregar hola.txt"
+  324  git commit hola.txt -m "Agregar hola.txt"
+  325  git status
+  326  git add hola.txt
+  327  git commit hola.txt -m "Agregar 2 hola.txt"
+  328  git add hola.txt
+  329  git status
+  330  git commit hola.txt -m "Agregar 3 hola.txt"
+  331  git add hola.txt
+  332  git commit hola.txt -m "Agregar hola.txt"
+  333  git commit hola.txt -m "Agregar hola.txt"
+  334  git commit hola.txt -m "Agregar hola.txt"
+  335  git commit hola.txt -m "Agregar hola.txt"
+  336  git commit hola.txt -m "Agregar hola.txt"
+  337  git commit hola.txt -m "Agregar hola.txt"
+  338  git commit hola.txt -m "Agregar hola.txt"
+  339  git commit hola.txt -m "Agregar hola.txt"
+  340  git commit hola.txt -m "Agregar hola.txt"
+  341  git init
+  342  git remote add origin git@github.com:HeVa-Dev44/prueba_gitactions_asir_hernan-.git
+  343  git branch -M main
+  344  git status
+  345  git add .
+  346  git commit . -m "Añadir archivo"
+  347  git push -u origin main
+  348  git log
+  349  git log --help
+  350  history
+  351  history >> historial_comandos.txt

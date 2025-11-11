@@ -1,0 +1,11 @@
+name: Mostrar hola
+on:
+  push:
+    branch: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Mostrar hola en la pantalla
+      run:
+        echo "Hola, me llamo Eomat" 
